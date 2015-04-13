@@ -1,0 +1,1 @@
+run by cd'ing into weather-news and running 'sudo npm start'
